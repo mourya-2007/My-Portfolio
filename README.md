@@ -34,6 +34,3 @@ No build tools or package installation are required.
 9. Dark Mode and Light Mode
 10. Interactive Navigation with smooth scrolling and active-section highlighting
 11. Responsive Design
-
-## Contact form note
-The form validates Name, Email and Message in the browser and displays a success message. It does not send or store messages because no backend or email service is connected.
