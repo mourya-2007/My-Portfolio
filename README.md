@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A responsive personal portfolio website for Mantena Mourya Raghava Varma, built with HTML5, CSS3 and vanilla JavaScript.
+A responsive personal portfolio website for Mantena Mourya Raghava Varma, built with HTML5, CSS3 .
 
 ## Files
 - `index.html` — page structure and all portfolio sections
