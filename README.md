@@ -6,7 +6,7 @@ A responsive personal portfolio website for Mantena Mourya Raghava Varma, built 
 - `index.html` — page structure and all portfolio sections
 - `style.css` — visual design, light/dark themes and responsive layouts
 - `script.js` — theme toggle, mobile navigation, active section highlighting and contact form validation
-- `assets/profile.jpg` — supplied profile avatar
+- Profile avatar — loaded from the GitHub account avatar URL
 
 ## Run locally
 1. Download and extract the project ZIP.
